@@ -1,3 +1,21 @@
 <resources>
-    <string name="app_name">utssmt4</string>
+    <string name="app_name">Ulangan Tengah Semester 4 </string>
+
+    <string name="kutipan1">
+        Halo Teknozen!
+        Buat kamu yang ingin bisa menguasai bidang Perpajakan, Kewirausahaan, dan Komputerisasi Akuntansi…
+        Kamu bisa mendapatkannya sekaligus di prodi D3 Sistem Informasi Akuntansi UTDI loh!
+        Yuk segera daftarkan dirimu melalui link pmb.utdi.ac.id
+    </string>
+    <string name="kutipan2" >
+        Dosen UTDI Beri Motivasi Siswa SMA N 1 Sewon
+        Dosen Prodi Sistem Informasi, Fakultas Teknologi Informasi, Universitas Teknologi Digital Indonesia (UTDI) yang dahulu bernama STMIK Akakom, Edy Prayitno, S.Kom., M.Eng., menjadi motivator dalam acara Achievement Motivation Training dan Doa Bersama untuk siswa kelas XII dan para orang tuanya, Kamis (31/3). Dalam acara tersebut, Edy menyampaikan pentingnya untuk mengoptimalkan kemampuan diri dan meminta restu orang tua dalam segala hal.
+        Karena masih dalam kondisi pandemi Covid-19, acara yang berlangsung di GOR SMA N 1 Sewon ini dibagi menjadi 2 gelombang pagi dan siang. Turut memberikan sambutan pada acara tersebut yaitu Kepala SMA N 1 Sewon, Dra. Yati Utami Purwaningsih, M.Pd., dan Ketua Komite SMA N 1 Sewon, Prof. Dr. Kasidi, M.Hum. Ucapan terima kasih dan apresiasi diberikan untuk UTDI atas kontribusinya untuk membantu meningkatkan motivasi para siswa dalam mempersiapkan ujian.
+        Salah satu siswa peserta kegiatan tersebut, Alya Teranisa, mengatakan bahwa acara ini sangat seru walaupun menguras emosi. “Saya jadi lebih bersemangat dan termotivasi melakukan yang terbaik untuk kedua orang tua”, tutupnya.
+    </string>
+    <string name="kutipan3">
+        Hai Teknozen!
+        Sore ini mimin mau berbagi alasan cerdas untuk kuliah di UTDI nih. Yuk simak ulasan ini ya.
+        Nah kalau Teknozen sekalian alasannya apa nih. Yuk share alasan kalian di kolom komentar ya!
+    </string>
 </resources>
