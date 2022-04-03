@@ -1,20 +1,46 @@
 <resources>
     <string name="app_name">Ulangan Tengah Semester 4 </string>
-    <string name="kutipan1">
+    <string name="radio_tips">Tips</string>
+    <string name="radio_info">Informasi Akademik </string>
+    <string name="button_filter">Filter</string>
+
+    <string name="informasi_d3sia">
         Halo Teknozen!
         Buat kamu yang ingin bisa menguasai bidang Perpajakan, Kewirausahaan, dan Komputerisasi Akuntansi…
         Kamu bisa mendapatkannya sekaligus di prodi D3 Sistem Informasi Akuntansi UTDI loh!
         Yuk segera daftarkan dirimu melalui link pmb.utdi.ac.id
     </string>
-    <string name="kutipan2" >
+    <string name="informasi_smk1sewon" >
         Dosen UTDI Beri Motivasi Siswa SMA N 1 Sewon
         Dosen Prodi Sistem Informasi, Fakultas Teknologi Informasi, Universitas Teknologi Digital Indonesia (UTDI) yang dahulu bernama STMIK Akakom, Edy Prayitno, S.Kom., M.Eng., menjadi motivator dalam acara Achievement Motivation Training dan Doa Bersama untuk siswa kelas XII dan para orang tuanya, Kamis (31/3). Dalam acara tersebut, Edy menyampaikan pentingnya untuk mengoptimalkan kemampuan diri dan meminta restu orang tua dalam segala hal.
         Karena masih dalam kondisi pandemi Covid-19, acara yang berlangsung di GOR SMA N 1 Sewon ini dibagi menjadi 2 gelombang pagi dan siang. Turut memberikan sambutan pada acara tersebut yaitu Kepala SMA N 1 Sewon, Dra. Yati Utami Purwaningsih, M.Pd., dan Ketua Komite SMA N 1 Sewon, Prof. Dr. Kasidi, M.Hum. Ucapan terima kasih dan apresiasi diberikan untuk UTDI atas kontribusinya untuk membantu meningkatkan motivasi para siswa dalam mempersiapkan ujian.
         Salah satu siswa peserta kegiatan tersebut, Alya Teranisa, mengatakan bahwa acara ini sangat seru walaupun menguras emosi. “Saya jadi lebih bersemangat dan termotivasi melakukan yang terbaik untuk kedua orang tua”, tutupnya.
     </string>
-    <string name="kutipan3">
+    <string name="tips_6alasan_utdi">
         Hai Teknozen!
         Sore ini mimin mau berbagi alasan cerdas untuk kuliah di UTDI nih. Yuk simak ulasan ini ya.
         Nah kalau Teknozen sekalian alasannya apa nih. Yuk share alasan kalian di kolom komentar ya!
+    </string>
+    <string name="informasi_smk2magetan">
+        UTDI Laksanakan Pelatihan IoT di SMK N 2 Magetan
+        Kamis (24/3), Universitas Teknologi Digital Indonesia (UTDI) melaksanakan pelatihan Internet of Things (IoT) di SMK N 2 Magetan. Kegiatan ini merupakan bentuk kerja sama yang rutin diselenggarakan sejak UTDI masih bernama STMIK Akakom. Narasumber kegiatan ini, Kuindra Iriyanta, S.Kom, melatih siswa untuk membangun IoT mereka sendiri, yaitu membangun sistem monitoring suhu dan kelembaban udara menggunakan thinger.io.
+        Pelatihan ini diikuti oleh seluruh siswa dari kelas X dan XII berlangsung mulai pukul 8.00 hingga 13.00. Para siswa sangat antusias mengikuti kegiatan ini, karena dapat mengembangkan perangkat IoT-nya sendiri.
+        Sementara itu, Kepala SMK N 2 Magetan, Drs. Susilo Purwantono, M.M. dalam sambutannya mengatakan bahwa saat ini adalah jaman yang serba modern dan tidak mungkin lepas dari teknolog, salah satunya adalah IoT. Oleh karena itu, diadakan workshop bagi siswa dan bekerja sama dengan UTDI. "Terima kasih kepada pihak UTDI dan semoga setelah pelatihan ini, para siswa dapat membangun IoT mini sendiri", tambah Susilo.
+        #utdi #universitasteknologidigitalindonesia #smkn2magetan #magetan #stmikakakom #stmikakakomyogyakarta
+    </string>
+    <string name="tips_porto">
+        Halo Teknozen!
+        Kali ini mimin mau bahas tentang dunia perkuliahan nihh
+        Kaliah tau ga sih? Pentingnya portofolio bagi mahasiswa jurusan IT🤔
+        Buat kalian yang ingin tau alasannya, simak penjelasan diatas ini yuk!
+        Mimin udah spill manfaat dan contoh portofolio juga loh! Jadi jangan lupa share informasi ini ke teman teman kalian juga ya😉
+        #utdi #universitasteknologidigitalindonesia #akakom #stmikakakom #stmikakakomyogyakarta #portofolio #portofolioit #kampusit
+    </string>
+    <string name="informasi_pmbutdi">
+        Halo Teknozen!
+        Penerimaan Mahasiswa Baru 2022 / 2023 Universitas Teknologi Digital Indonesia telah dibuka nih.
+        Pendaftaran mahasiswa baru dibuka hingga 30 Agustus 2022. Selain Program Kelas Reguler, tersedia juga Program Kelas Karyawan.
+        Nah tunggu apa lagi yuk daftar sekarang juga. Untuk info pmb selengkapnya kunjungi web pmb.utdi.ac.id atau kontak pmb yang tertera ya😊
+        #utdi #digital #global #integrity #stmikakakom #akakom #pmb2022 #pmb #penerimaanmahasiswabaru #kuliahit #kampusjogja
     </string>
 </resources>
