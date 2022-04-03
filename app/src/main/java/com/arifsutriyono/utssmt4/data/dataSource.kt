@@ -8,6 +8,7 @@ class dataSource {
         return listOf<dataKata>(
             dataKata(R.string.informasi_d3sia),
             dataKata(R.string.informasi_smk1sewon),
+            dataKata(R.string.informasi_smk2magetan),
 
         )
     }
