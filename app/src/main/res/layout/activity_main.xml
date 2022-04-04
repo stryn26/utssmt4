@@ -11,7 +11,10 @@
         android:layout_width="match_parent"
         android:layout_height="672dp"
         android:scrollbars="vertical"
-        app:layoutManager="LinearLayoutManager" />
+        app:layoutManager="LinearLayoutManager"
+
+
+        />
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
@@ -31,27 +34,40 @@
             app:layout_constraintStart_toStartOf="parent" />
 
         <RadioGroup
+            android:id="@+id/radioGroup"
             android:layout_width="245dp"
             android:layout_height="58dp"
             android:orientation="horizontal"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toStartOf="@+id/button1"
-            app:layout_constraintStart_toStartOf="parent" >
-<!--kode xml diatas mengatur tentang radio grup berkaitan lebar , orientasi ,constraint, text dan id-->
+            app:layout_constraintStart_toStartOf="parent">
+            <!--kode xml diatas mengatur tentang radio grup berkaitan lebar , orientasi ,constraint, text dan id-->
 
             <RadioButton
                 android:id="@+id/tips"
                 android:layout_width="105dp"
                 android:layout_height="wrap_content"
                 android:text="@string/radio_tips" />
-<!--Menambahkan elemen button selection-->
+            <!--Menambahkan elemen button selection-->
             <RadioButton
                 android:id="@+id/informasi"
                 android:layout_width="139dp"
                 android:layout_height="wrap_content"
                 android:text="@string/radio_info" />
-<!--Menambahkan elemen button selection -->
+            <!--Menambahkan elemen button selection -->
         </RadioGroup>
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            app:layout_constraintBottom_toTopOf="@+id/radioGroup"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.045"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.024" />
     </androidx.constraintlayout.widget.ConstraintLayout>
 
 </FrameLayout>
