@@ -31,7 +31,7 @@ class itemAdapter (
     }
 
     override fun onBindViewHolder(holder: ItemViewHolder, position: Int) {
-        val item = dataset[position]
+        val item = dataset[position]//mengambil posisi dari data yang diambil di data kata
 
         holder.textView.text =  context.resources.getString(item.stringResourceId)//import text dari string recource
         holder.imageView.setImageResource(item.imageResourceId)//import text dari imageResource
