@@ -12,10 +12,10 @@ import com.arifsutriyono.utssmt4.model.dataKata
 
 //import library yang dibutuhkan
 
-class itemAdapter (
+class ItemAdapter (
     private val context:Context ,
     private val dataset:List<dataKata>
-    ):RecyclerView.Adapter<itemAdapter.ItemViewHolder>()
+    ):RecyclerView.Adapter<ItemAdapter.ItemViewHolder>()
     {
     //melakukan deklarasi objek context dan data set
     class ItemViewHolder(private val view: View): RecyclerView.ViewHolder(view) {
