@@ -12,14 +12,11 @@
         android:layout_height="672dp"
         android:scrollbars="vertical"
         app:layoutManager="LinearLayoutManager"
-
-
         />
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent">
-
 
         <Button
             android:id="@+id/button1"
@@ -43,12 +40,14 @@
             app:layout_constraintStart_toStartOf="parent">
             <!--kode xml diatas mengatur tentang radio grup berkaitan lebar , orientasi ,constraint, text dan id-->
 
+            <!--Menambahkan elemen button selection-->
+
             <RadioButton
                 android:id="@+id/tips"
                 android:layout_width="105dp"
                 android:layout_height="wrap_content"
                 android:text="@string/radio_tips" />
-            <!--Menambahkan elemen button selection-->
+
             <RadioButton
                 android:id="@+id/informasi"
                 android:layout_width="139dp"
