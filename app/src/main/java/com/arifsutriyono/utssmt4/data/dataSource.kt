@@ -5,6 +5,7 @@ import com.arifsutriyono.utssmt4.model.dataKata
 
 class dataSource {
     fun loadDataKata(): List<dataKata>{
+        //fungsi untuk memanggil data dari resource string dan drawable
         return listOf<dataKata>(
             dataKata(R.string.informasi_d3sia,R.drawable.d3sia),
             dataKata(R.string.informasi_smk1sewon,R.drawable.smk1sewon),

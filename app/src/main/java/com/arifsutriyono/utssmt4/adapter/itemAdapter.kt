@@ -17,24 +17,26 @@ class itemAdapter (
     private val dataset:List<dataKata>
     ):RecyclerView.Adapter<itemAdapter.ItemViewHolder>()
     {
-    //
+    //melakukan deklarasi objek context dan data set
     class ItemViewHolder(private val view: View): RecyclerView.ViewHolder(view) {
-        val textView: TextView =view.findViewById(R.id.item_title)
-        val imageView: ImageView =view.findViewById(R.id.item_image)
+        val textView: TextView =view.findViewById(R.id.item_title)//import data string dari data source
+        val imageView: ImageView =view.findViewById(R.id.item_image)//import data string dari data source
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ItemViewHolder {
         val adapterLayout = LayoutInflater.from(parent.context)
-            .inflate(R.layout.list_item, parent, false)
+            .inflate(R.layout.list_item, parent, false)//menentukan layout item untuk daftar yang akan ditampilkan nanti
 
         return ItemViewHolder(adapterLayout)
     }
 
     override fun onBindViewHolder(holder: ItemViewHolder, position: Int) {
         val item = dataset[position]
-        holder.textView.text =  context.resources.getString(item.stringResourceId)
-        holder.imageView.setImageResource(item.imageResourceId)
+
+        holder.textView.text =  context.resources.getString(item.stringResourceId)//import text dari string recource
+        holder.imageView.setImageResource(item.imageResourceId)//import text dari imageResource
     }
+
     override fun getItemCount(): Int {
         return dataset.size
     }
