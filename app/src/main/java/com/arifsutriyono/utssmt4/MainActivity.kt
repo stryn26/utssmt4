@@ -12,8 +12,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         val myDataset = dataSource().loadDataKata()
-        val recyclerView = findViewById<RecyclerView>(R.id.recycler_view)
-        recyclerView.adapter = itemAdapter(this,myDataset)
+        val recyclerView = findViewById<RecyclerView>(R.id.recycler_view)//memilih id layout recycle view
+        recyclerView.adapter = itemAdapter(this,myDataset)//menggunakan adapte
         recyclerView.setHasFixedSize(true)
 
     }

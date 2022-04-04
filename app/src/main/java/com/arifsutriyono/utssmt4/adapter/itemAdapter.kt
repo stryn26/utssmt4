@@ -38,6 +38,6 @@ class itemAdapter (
     }
 
     override fun getItemCount(): Int {
-        return dataset.size
+        return dataset.size//menghitung lebar data yang ada di dataset
     }
 }
