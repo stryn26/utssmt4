@@ -9,6 +9,8 @@ class dataSource {
             dataKata(R.string.informasi_d3sia),
             dataKata(R.string.informasi_smk1sewon),
             dataKata(R.string.informasi_smk2magetan),
+            dataKata(R.string.informasi_pmbutdi),
+
 
         )
     }
