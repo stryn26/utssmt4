@@ -1,3 +1,11 @@
 package com.arifsutriyono.utssmt4.model
 
-data class dataKata(val stringResourceId:Int)
+import androidx.annotation.DrawableRes
+import androidx.annotation.StringRes
+
+
+data class dataKata(
+    @StringRes val stringResourceId:Int,
+    @DrawableRes val imageResourceId:Int){
+
+}
