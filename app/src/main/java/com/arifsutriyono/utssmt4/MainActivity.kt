@@ -5,7 +5,7 @@ import android.os.Bundle
 import androidx.recyclerview.widget.RecyclerView
 import com.arifsutriyono.utssmt4.adapter.itemAdapter
 import com.arifsutriyono.utssmt4.data.dataSource
-
+//import library yang diperlukan
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
