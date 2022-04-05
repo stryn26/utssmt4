@@ -18,5 +18,6 @@ class dataSource {
             dataKata(R.string.tipsUcapanSelamatPuasa,R.drawable.selamatpuasa),
             dataKata(R.string.tips_6alasan_utdi,R.drawable.alasancerdaskuliahdiutdi6)
         )
+
     }
 }
